@@ -1,0 +1,25 @@
+body {
+  background-image: url(/recursos/bsrk.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+}
+
+.container {
+  margin-top: 25px;
+  margin-left: 25px;
+  box-shadow: 10px 5px 20px;
+  transition: all;
+}
+
+.title {
+  font-family: sans-serif;
+  border-radius: 10px;
+  font-size: 100px;
+  color: white;
+}
+
+.form-group {
+  padding-bottom: 10px;
+}
